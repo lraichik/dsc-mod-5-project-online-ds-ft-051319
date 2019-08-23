@@ -20,15 +20,15 @@ Here is the confusion matrix for the total dataset, on the best model I found:
 The cost-benefit amount of this model is $310,720.  
 
 This was calculated as follows:  
-Average bill = $60
-24 Month contract brings in $1440
-Promotion worth = $500
-
-246 * Promotion: Loss
-97 * 24 month contract: Loss
-610 * (24 month contract – Promotion): Gain
-
-Gain - Loss total = cost-benefit amount
+Average bill = $60  
+24 Month contract brings in $1440  
+Promotion worth = $500  
+  
+246 * Promotion: Loss  
+97 * 24 month contract: Loss  
+610 * (24 month contract – Promotion): Gain  
+  
+Gain - Loss total = cost-benefit amount  
 
 
 ## Recommendations
