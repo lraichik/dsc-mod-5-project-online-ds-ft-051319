@@ -1,6 +1,6 @@
 # Overview  
 
-In this project I am working with data from the Churn dataset, which I got from [openml.org](openml.org).  
+In this project I am working with data from the Churn dataset, which I got from [https://www.openml.org/](https://www.openml.org/).  
 Here is a link to this dataset on their website:[https://www.openml.org/d/40701](https://www.openml.org/d/40701)  
 
 It is an imbalanced dataset as can be seen in this graph:
