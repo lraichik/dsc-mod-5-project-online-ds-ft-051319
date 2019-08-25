@@ -3,8 +3,9 @@
 In this project I am working with data from the Churn dataset, which I got from [https://www.openml.org/](https://www.openml.org/).  
 Here is a link to this dataset on their website:[https://www.openml.org/d/40701](https://www.openml.org/d/40701)  
 
-It is an imbalanced dataset as can be seen in this graph:
-<img src='target.png' width="300" height="300" />  
+It is an imbalanced dataset as can be seen in this graph:  
+
+<img src='target.png' width="400" height="300" />  
 
 I am trying to predict which customers will be leaving, in order to come up with a plan to retain them.  
 Therefore I will be trying to optimize recall, while still trying to keep the number of false positives as low as possible. The metric that I will be using to evaluate that in the models is cost-benfit analysis.
@@ -13,9 +14,9 @@ Therefore I will be trying to optimize recall, while still trying to keep the nu
 
 ## Findings
 
-Here is the confusion matrix for the total dataset, on the best model I found:
+Here is the confusion matrix for the total dataset, on the best model I found:  
 
-<img src='cmtotal.png' width="300" height="300" />
+<img src='cmtotal.png' width="300" height="325" />
 
 The cost-benefit amount of this model is $310,720.  
 
