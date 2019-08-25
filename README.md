@@ -15,7 +15,7 @@ Therefore I will be trying to optimize recall, while still trying to keep the nu
 
 Here is the confusion matrix for the total dataset, on the best model I found:
 
-<img src='cmtotal.png'>
+<img src='cmtotal.png' width="100" height="200" />
 
 The cost-benefit amount of this model is $310,720.  
 
