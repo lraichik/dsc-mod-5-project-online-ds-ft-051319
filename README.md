@@ -5,7 +5,7 @@ Here is a link to this dataset on their website:[https://www.openml.org/d/40701]
 
 It is an imbalanced dataset as can be seen in this graph:  
 
-<img src='target.png' width="400" height="300" />  
+<img src='target.png' width="400" height="250" />  
 
 I am trying to predict which customers will be leaving, in order to come up with a plan to retain them.  
 Therefore I will be trying to optimize recall, while still trying to keep the number of false positives as low as possible. The metric that I will be using to evaluate that in the models is cost-benfit analysis.
